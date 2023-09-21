@@ -1,12 +1,12 @@
 {
 	"setting": {
-		"options": "Options",
-		"plugin": "Plugin",
-		"builtin-plugins": "Core plugins",
-		"plugin-options": "Plugin options",
-		"folder-path-example-placeholder": "Example: folder 1/folder 2",
-		"file-path-example-placeholder": "Example: folder/note",
-		"msg-restart-required": "Changing this option requires a restart to take effect.",
+		"options": "Paràmetres",
+		"plugin": "Complement",
+		"builtin-plugins": "Complements integrats",
+		"plugin-options": "Opcions de complements",
+		"folder-path-example-placeholder": "Exemple: carpeta 1/carpeta 2",
+		"file-path-example-placeholder": "Exemple: carpeta/nota",
+		"msg-restart-required": "Modificar aquesta opció requreix reiniciar per tal que s'apliquin els canvis.",
 		"editor": {
 			"name": "Editor",
 			"section-general": "General",
